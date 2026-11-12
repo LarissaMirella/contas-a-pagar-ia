@@ -1,0 +1,22 @@
+﻿tipo,arquivo,fornecedor,valor,vencimento,detalhe
+VENCIDO,25_contabilidade_exata_s_s_009164.pdf,Contabilidade Exata S/S,2072.11,2026-10-31,Venceu há 12 dia(s)
+VENCIDO,01_distribuidora_horizonte_ltda_001924.pdf,Distribuidora Horizonte Ltda,19864.81,2026-11-01,Venceu há 11 dia(s)
+VENCIDO,17_imobiliaria_boa_vista_ltda_005413.pdf,Imobiliária Boa Vista Ltda,6000.0,2026-11-03,Venceu há 9 dia(s)
+VENCIDO,12_papelaria_central_eireli_004841.pdf,Papelaria Central Eireli,791.49,2026-11-05,Venceu há 7 dia(s)
+VENCIDO,26_contabilidade_exata_s_s_005673.pdf,Contabilidade Exata S/S,1917.4,2026-11-07,Venceu há 5 dia(s)
+VENCIDO,22_mecanica_rapida_industrial_ltda_003693.pdf,Mecânica Rápida Industrial Ltda,2992.87,2026-11-08,Venceu há 4 dia(s)
+VENCIDO,23_mecanica_rapida_industrial_ltda_001896.pdf,Mecânica Rápida Industrial Ltda,3523.51,2026-11-09,Venceu há 3 dia(s)
+VENCIDO,06_energia_vale_sul_s_a_000206.pdf,Energia Vale Sul S.A.,7188.84,2026-11-10,Venceu há 2 dia(s)
+VENCE EM BREVE,11_papelaria_central_eireli_009559.pdf,Papelaria Central Eireli,678.43,2026-11-12,Vence hoje
+VENCE EM BREVE,07_translog_fretes_ltda_002647.pdf,TransLog Fretes Ltda,31250.0,2026-11-13,Vence em 1 dia(s)
+VENCE EM BREVE,16_imobiliaria_boa_vista_ltda_006316.pdf,Imobiliária Boa Vista Ltda,6000.0,2026-11-17,Vence em 5 dia(s)
+VENCE EM BREVE,18_imobiliaria_boa_vista_ltda_006672.pdf,Imobiliária Boa Vista Ltda,6000.0,2026-11-17,Vence em 5 dia(s)
+REVISAR,07_translog_fretes_ltda_002647.pdf,TransLog Fretes Ltda,31250.0,2026-11-13,"Valor muito acima do padrão da categoria (mediana R$ 2,553.93)"
+REVISAR,31_nuvem_sistemas_de_ti_ltda_004654_reenviada.pdf,Nuvem Sistemas de TI Ltda,2852.78,2026-11-29,Possível duplicidade (mesmo CNPJ e número de documento)
+REVISAR,10_papelaria_central_eireli_001391.pdf,Papelaria Central Eireli,369.88,2026-12-05,CNPJ inválido
+REVISAR,19_conectafibra_telecom_ltda_2026_3583.pdf,,,,"Campo(s) ausente(s): fornecedor, numero_documento, valor, vencimento; Confiança baixa (0.20)"
+REVISAR,20_conectafibra_telecom_ltda_2026_2440.pdf,,,,"Campo(s) ausente(s): fornecedor, numero_documento, valor, vencimento; Confiança baixa (0.20)"
+REVISAR,21_conectafibra_telecom_ltda_2026_9677.pdf,,,,"Campo(s) ausente(s): fornecedor, numero_documento, valor, vencimento; Confiança baixa (0.20)"
+REVISAR,28_combustiveis_estrada_real_ltda_2026_8417.pdf,,,,"Campo(s) ausente(s): fornecedor, numero_documento, valor, vencimento; Confiança baixa (0.20)"
+REVISAR,29_combustiveis_estrada_real_ltda_2026_2604.pdf,,,,"Campo(s) ausente(s): fornecedor, numero_documento, valor, vencimento; Confiança baixa (0.20)"
+REVISAR,30_combustiveis_estrada_real_ltda_2026_9913.pdf,,,,"Campo(s) ausente(s): fornecedor, numero_documento, valor, vencimento; Confiança baixa (0.20)"

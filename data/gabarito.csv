@@ -1,0 +1,32 @@
+arquivo,fornecedor,cnpj,numero_documento,valor,vencimento,categoria
+01_distribuidora_horizonte_ltda_001924.pdf,Distribuidora Horizonte Ltda,23.456.789/0001-95,001924,19864.81,2026-11-01,Matéria-prima
+02_distribuidora_horizonte_ltda_002386.pdf,Distribuidora Horizonte Ltda,23.456.789/0001-95,002386,9639.92,2026-12-17,Matéria-prima
+03_distribuidora_horizonte_ltda_009774.pdf,Distribuidora Horizonte Ltda,23.456.789/0001-95,009774,8508.52,2026-11-27,Matéria-prima
+04_energia_vale_sul_s_a_003911.pdf,Energia Vale Sul S.A.,34.567.891/0001-84,003911,6612.11,2026-12-02,Energia
+05_energia_vale_sul_s_a_009028.pdf,Energia Vale Sul S.A.,34.567.891/0001-84,009028,4322.64,2026-11-26,Energia
+06_energia_vale_sul_s_a_000206.pdf,Energia Vale Sul S.A.,34.567.891/0001-84,000206,7188.84,2026-11-10,Energia
+07_translog_fretes_ltda_002647.pdf,TransLog Fretes Ltda,45.678.912/0001-55,002647,31250.00,2026-11-13,Frete e logística
+08_translog_fretes_ltda_001619.pdf,TransLog Fretes Ltda,45.678.912/0001-55,001619,1248.18,2026-11-24,Frete e logística
+09_translog_fretes_ltda_000811.pdf,TransLog Fretes Ltda,45.678.912/0001-55,000811,2553.93,2026-12-16,Frete e logística
+10_papelaria_central_eireli_001391.pdf,Papelaria Central Eireli,56.789.123/0001-00,001391,369.88,2026-12-05,Material de escritório
+11_papelaria_central_eireli_009559.pdf,Papelaria Central Eireli,56.789.123/0001-08,009559,678.43,2026-11-12,Material de escritório
+12_papelaria_central_eireli_004841.pdf,Papelaria Central Eireli,56.789.123/0001-08,004841,791.49,2026-11-05,Material de escritório
+13_nuvem_sistemas_de_ti_ltda_004654.pdf,Nuvem Sistemas de TI Ltda,67.891.234/0001-47,004654,2852.78,2026-11-29,Serviços de TI
+14_nuvem_sistemas_de_ti_ltda_006165.pdf,Nuvem Sistemas de TI Ltda,67.891.234/0001-47,006165,1744.72,2026-11-22,Serviços de TI
+15_nuvem_sistemas_de_ti_ltda_002903.pdf,Nuvem Sistemas de TI Ltda,67.891.234/0001-47,002903,3095.73,2026-12-04,Serviços de TI
+16_imobiliaria_boa_vista_ltda_006316.pdf,Imobiliária Boa Vista Ltda,78.912.345/0001-09,006316,6000.00,2026-11-17,Aluguel
+17_imobiliaria_boa_vista_ltda_005413.pdf,Imobiliária Boa Vista Ltda,78.912.345/0001-09,005413,6000.00,2026-11-03,Aluguel
+18_imobiliaria_boa_vista_ltda_006672.pdf,Imobiliária Boa Vista Ltda,78.912.345/0001-09,006672,6000.00,2026-11-17,Aluguel
+19_conectafibra_telecom_ltda_2026_3583.pdf,ConectaFibra Telecom Ltda,89.123.456/0001-52,2026/3583,649.62,2026-12-11,Telecom
+20_conectafibra_telecom_ltda_2026_2440.pdf,ConectaFibra Telecom Ltda,89.123.456/0001-52,2026/2440,469.82,2026-11-16,Telecom
+21_conectafibra_telecom_ltda_2026_9677.pdf,ConectaFibra Telecom Ltda,89.123.456/0001-52,2026/9677,848.91,2026-11-27,Telecom
+22_mecanica_rapida_industrial_ltda_003693.pdf,Mecânica Rápida Industrial Ltda,91.234.567/0001-88,003693,2992.87,2026-11-08,Manutenção
+23_mecanica_rapida_industrial_ltda_001896.pdf,Mecânica Rápida Industrial Ltda,91.234.567/0001-88,001896,3523.51,2026-11-09,Manutenção
+24_mecanica_rapida_industrial_ltda_006404.pdf,Mecânica Rápida Industrial Ltda,91.234.567/0001-88,006404,3381.50,2026-11-24,Manutenção
+25_contabilidade_exata_s_s_009164.pdf,Contabilidade Exata S/S,12.345.670/0001-29,009164,2072.11,2026-10-31,Serviços contábeis
+26_contabilidade_exata_s_s_005673.pdf,Contabilidade Exata S/S,12.345.670/0001-29,005673,1917.40,2026-11-07,Serviços contábeis
+27_contabilidade_exata_s_s_000153.pdf,Contabilidade Exata S/S,12.345.670/0001-29,000153,2150.34,2026-12-16,Serviços contábeis
+28_combustiveis_estrada_real_ltda_2026_8417.pdf,Combustíveis Estrada Real Ltda,13.572.468/0001-00,2026/8417,6352.59,2026-11-06,Combustível
+29_combustiveis_estrada_real_ltda_2026_2604.pdf,Combustíveis Estrada Real Ltda,13.572.468/0001-00,2026/2604,5812.55,2026-11-23,Combustível
+30_combustiveis_estrada_real_ltda_2026_9913.pdf,Combustíveis Estrada Real Ltda,13.572.468/0001-00,2026/9913,4443.03,2026-11-20,Combustível
+31_nuvem_sistemas_de_ti_ltda_004654_reenviada.pdf,Nuvem Sistemas de TI Ltda,67.891.234/0001-47,004654,2852.78,2026-11-29,Serviços de TI

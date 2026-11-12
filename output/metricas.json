@@ -1,0 +1,19 @@
+{
+  "modo": "local",
+  "tempo_extracao_s": 0.19,
+  "qualidade": {
+    "documentos": 31,
+    "acuracia_por_campo": {
+      "fornecedor": 80.6,
+      "cnpj": 100.0,
+      "numero_documento": 80.6,
+      "valor": 80.6,
+      "vencimento": 80.6,
+      "categoria": 100.0
+    },
+    "acuracia_geral": 87.1,
+    "documentos_totalmente_corretos": 25,
+    "documentos_com_algum_erro": 6,
+    "erros_sinalizados_para_revisao_pct": 100.0
+  }
+}
