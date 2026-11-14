@@ -96,7 +96,7 @@ output/                      resultados gerados
 
 ## Dashboard no Power BI
 
-Guia em [`docs/guia_power_bi.md`](docs/guia_power_bi.md): conexão com o Excel, medidas DAX e sugestão de visuais (total a pagar, vencidos, fluxo semanal, categorias, itens para revisão).
+![Dashboard de Contas a Pagar](docs/img/dashboard.png) Guia em [`docs/guia_power_bi.md`](docs/guia_power_bi.md): conexão com o Excel, medidas DAX e sugestão de visuais (total a pagar, vencidos, fluxo semanal, categorias, itens para revisão).
 
 ## Limitações e próximos passos
 
