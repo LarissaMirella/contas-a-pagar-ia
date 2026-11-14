@@ -1,19 +1,25 @@
 {
-  "modo": "local",
-  "tempo_extracao_s": 0.19,
+  "modo": "ia",
+  "tempo_extracao_s": 82.69,
   "qualidade": {
     "documentos": 31,
     "acuracia_por_campo": {
-      "fornecedor": 80.6,
+      "fornecedor": 100.0,
       "cnpj": 100.0,
-      "numero_documento": 80.6,
-      "valor": 80.6,
-      "vencimento": 80.6,
+      "numero_documento": 100.0,
+      "valor": 100.0,
+      "vencimento": 100.0,
       "categoria": 100.0
     },
-    "acuracia_geral": 87.1,
-    "documentos_totalmente_corretos": 25,
-    "documentos_com_algum_erro": 6,
+    "acuracia_geral": 100.0,
+    "documentos_totalmente_corretos": 31,
+    "documentos_com_algum_erro": 0,
     "erros_sinalizados_para_revisao_pct": 100.0
+  },
+  "economia": {
+    "tempo_manual_total_s": 1984.0,
+    "tempo_automatizado_total_s": 274.7,
+    "economia_s": 1709.3,
+    "economia_pct": 86.2
   }
 }
