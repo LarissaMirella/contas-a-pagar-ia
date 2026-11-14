@@ -66,21 +66,17 @@ python -m src.exemplo_resultado_ideal      # Excel "perfeito", para montar o Pow
 
 As regras acertam os layouts que conhecem (nota e boleto) e falham em todas as faturas de texto livre. Esse é exatamente o limite de uma solução por regras: cada fornecedor novo exige código novo.
 
-### IA (modo `ia`): preencha com os seus números
-
-Rode `python -m src.main --modo ia --tempo-manual-por-nota SEGUNDOS` e copie o resultado:
+### IA (Claude), medido
 
 | Métrica | Baseline (regras) | IA (Claude) |
 |---|---|---|
-| Acurácia geral | 87,1% | _preencher_ |
-| Documentos 100% corretos | 25 de 31 | _preencher_ |
-| Tempo para 31 documentos (manual) | _preencher_ | _preencher_ |
-| Tempo com automação (extração + revisão) | - | _preencher_ |
-| Economia de tempo | - | _preencher_ |
+| Acurácia geral (campos corretos) | 87,1% | 100% |
+| Documentos 100% corretos | 25 de 31 | 31 de 31 |
+| Documentos enviados para revisão humana | 9 de 31 | 3 de 31 |
 
-> **Como medir o tempo manual:** cronometre você mesma lançando 5 a 10 notas à mão numa planilha e divida pelo número de notas. Esse é o valor de `--tempo-manual-por-nota`.
-> A estimativa de economia é **conservadora**: cada nota marcada como `REVISAR` conta como se levasse o mesmo tempo que o lançamento manual.
+**Tempo (31 documentos):** lançamento manual estimado em 33,1 min; com a automação, 4,6 min (82,7 s de extração + revisão dos 3 documentos sinalizados). Economia de **86,2%**.
 
+> Testado com 31 documentos fictícios e limpos, em 3 layouts. Os 3 documentos enviados para revisão são os casos de teste propositais (CNPJ inválido, valor atípico e nota duplicada). Com documentos reais (escaneados ou fotografados) o resultado pode ser menor, e esse é o próximo teste. O tempo manual foi medido lançando 6 notas à mão (cerca de 64 s por nota) e extrapolado para as 31.
 ## Estrutura do projeto
 
 ```
